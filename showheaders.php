@@ -1,4 +1,4 @@
-<p>Scuba Steve says the following headers were sent to this server:</p>
+<p><br>The following headers were sent to this server:</p>
 <?php
 
 $localIPAddress = getHostByName(getHostName());
